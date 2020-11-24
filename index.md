@@ -9,7 +9,7 @@ cover-img: /assets/img/갈대1.jpg
 
 ## About me
 
-**Yeong Gyu**
+**Yeong Gyu**<br>
 **Chonnam National University Student**
 
 ## Contact
