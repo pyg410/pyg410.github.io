@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/전남대.jpg
+title: Coding Study Diary
+subtitle: 만들기 존나힘드네
+cover-img: /assets/img/갈대1.jpg
 ---
 
 <br/>
