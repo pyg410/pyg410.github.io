@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding Study Diary
-subtitle: 만들기 존나힘드네
+subtitle: 만드는거 쉽지않네
 cover-img: /assets/img/갈대1.jpg
 ---
 
