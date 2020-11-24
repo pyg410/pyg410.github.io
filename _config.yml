@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
+title: Y. Diary
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Seokho Son
+description: Pravite Diary
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Yeong Gyu
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -16,7 +16,7 @@ navbar-links:
   Publication: "publication"
   Blog: "blog"
   Project: "project"
-  GitHub: "https://github.com/seokho-son"
+  GitHub: "https://github.com/pyg410"
   Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
 
@@ -36,26 +36,26 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
-#  twitter: daattali
+  email: "pon05114@naver.com"
+  facebook: /
+  github: pyg410
+  linkedin: pyg410
+#  twitter: /
 #  rss: true
-#  reddit: yourname
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  reddit: /
+#  xing: /
+#  stackoverflow: "/"
+#  snapchat: /
+#  instagram: /
+#  youtube: user//
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: /
+#  steam: /
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+#  mastodon: /
 
 # [수정필요] 연락을 위한 타 사이트 정보 활성화 여부 지정 (필요 없는 경우 주석 처리)
 # --- General options --- #
