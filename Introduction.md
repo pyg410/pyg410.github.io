@@ -13,4 +13,4 @@ title: Introduction
 
 * Coding (ongoing): _**Make the Privite Blog**_
   * Role: design and development of blog, selfmaking-source based project management, standardization activity
-  * Link: [개인블로그] (pyg410.github.io/tease)
+  * Link: [개인블로그](pyg410.github.io/tease)
