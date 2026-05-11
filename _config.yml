@@ -10,7 +10,7 @@ title:            TIL
 tagline:          'AI & Backend Developer'
 description:      '재밌는 내용을 기록합니다'
 url:              https://pyg410.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           '박영규'
