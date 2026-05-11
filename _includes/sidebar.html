@@ -1,0 +1,22 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url contains 'ai-agent' %} active{% endif %}" href="{{ site.baseurl }}ai-agent/">AI Agent</a>
+      <a class="sidebar-nav-item{% if page.url contains '/ml' %} active{% endif %}" href="{{ site.baseurl }}ml/">ML / PyTorch</a>
+      <a class="sidebar-nav-item{% if page.url contains 'spring' %} active{% endif %}" href="{{ site.baseurl }}spring/">Spring</a>
+      <a class="sidebar-nav-item{% if page.url contains 'about' %} active{% endif %}" href="{{ site.baseurl }}about/">About</a>
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

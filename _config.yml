@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            박영규
+tagline:          'AI Agent & Backend Developer'
+description:      'Python AI Agent(LangGraph, FastAPI) · Java Spring 백엔드 개발자의 기술 블로그'
+url:              https://pyg410.github.io
+baseurl:          /
+
+author:
+  name:           '박영규'
+  url:            https://github.com/pyg410
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/pyg410/pyg410.github.io
