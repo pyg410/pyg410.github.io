@@ -1,7 +1,12 @@
-# Ignore docs files
+# Jekyll build output
 _gh_pages
 _site
+.jekyll-cache
+.jekyll-metadata
+
+# Ruby
 .ruby-version
+vendor
 
 # Numerous always-ignore extensions
 *.diff
@@ -13,6 +18,7 @@ _site
 *.swp
 *.zip
 *.vi
+*.bak
 *~
 
 # OS or Editor folders

@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,8 +79,19 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "Playfair Display", serif;
+  font-size: 2.83rem;
+}
+
+/* Sidebar social icons */
+.sidebar-social {
+  margin-bottom: 1rem;
+}
+.sidebar-social a {
+  color: rgba(255,255,255,.5);
+}
+.sidebar-social a:hover {
+  color: #fff;
 }
 
 /* Sidebar nav */

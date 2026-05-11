@@ -259,7 +259,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 0.83rem;
   font-weight: 300;
 }
 
@@ -331,6 +331,8 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid #eee;
 }
 
 /* Blog post or page title */
