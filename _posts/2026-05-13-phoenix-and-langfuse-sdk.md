@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Langfuse & Phoenix SDK 동작 원리 및 FastAPI 성능 영향 & 배포시 주의사항
-categories: [ai-agent]
+categories: [ai-engineering]
 ---
 
 FastAPI + LangGraph 실서비스에 Langfuse 또는 Phoenix를 붙일 때 내부 동작을 이해하고 있으면 예상치 못한 문제를 피할 수 있습니다.

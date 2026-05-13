@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 폐쇄망 Docker Network Subnet 충돌로 인해 특정 서버 SSH/Ping Timeout 발생한 장애 분석
-categories: [docker]
+categories: [infra]
 ---
 개발서버에서 Docker compose를 이용해 container를 띄운 후 부터, 갑자기 Local → 개발서버로의 모든 SSH/PING/HTTP 요청에 대해 Timeout이 발생했다.
 <br>

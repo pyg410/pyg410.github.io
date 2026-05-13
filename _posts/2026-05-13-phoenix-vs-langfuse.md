@@ -4,7 +4,7 @@ title: FastAPI + LangGraph AI Agent self-hosted 모니터링 플랫폼 비교(La
 categories: [ai-engineering]
 ---
 
-# FastAPI + LangGraph AI Agent 모니터링: Langfuse vs Arize Phoenix
+폐쇄망에서 FastAPI & LangGraph 를 활용한 AI Agent를 개발할 때, self-hosted 배포가 가능한 모니터링 플랫폼을 비교합니다.
 
 ## 1. Langfuse vs Arize Phoenix 선택 기준
 
