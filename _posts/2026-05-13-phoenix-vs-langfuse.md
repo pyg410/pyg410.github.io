@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FastAPI + LangGraph AI Agent self-hosted 모니터링 플랫폼 비교(Langfuse vs Arize Phoenix)
-categories: [ai-agent]
+categories: [ai-engineering]
 ---
 
 # FastAPI + LangGraph AI Agent 모니터링: Langfuse vs Arize Phoenix

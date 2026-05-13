@@ -1,5 +1,5 @@
 ---
 layout: category
-title: ML / PyTorch
+title: ML Research
 category: ml
 ---
