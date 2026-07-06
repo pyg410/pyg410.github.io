@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-categories: [ai-engineering]
+categories: [research]
 ---
 
 2021.04.12 Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks 논문 리뷰
