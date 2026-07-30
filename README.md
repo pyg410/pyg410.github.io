@@ -6,10 +6,10 @@
 
 ## 주제
 
-- **AI Agent** — LangGraph, FastAPI를 활용한 에이전트 시스템
-- **ML / Deep Learning** — PyTorch 모델 학습 및 실험
-- **Backend** — Java Spring 서버 개발
-- **Docker** — 컨테이너 환경 구성
+- **AI Engineering** — LangGraph
+- **Research** — 논문 리뷰
+- **Backend** — Spring, FastAPI
+- **Infra** — MLOps
 
 ## 기술 스택
 
